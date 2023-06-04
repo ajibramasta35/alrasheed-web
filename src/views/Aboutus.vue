@@ -54,7 +54,7 @@
                             <li>
                                 <div class="author-box">
                                     <div class="img-box">
-                                        <img src="assets/images/about/about-style2__author-img.png" alt="">
+                                        <img src="/src/assets/images/about/about-style2__author-img.png" alt="">
                                     </div>
 
                                     <div class="title">
@@ -101,7 +101,7 @@
                     <!--Start Testimonial Style2 Single-->
                     <div class="testimonial-style2__single text-center">
                         <div class="img-holder">
-                            <img src="assets/images/testimonial/testimonial-v2-1.jpg" alt="" />
+                            <img src="/src/assets/images/testimonial/testimonial-v2-1.jpg" alt="" />
                         </div>
                         <div class="text-holder">
                             <p>This is due to their best service, pricing and customer support. It’s throughly
@@ -117,7 +117,7 @@
                     <!--Start Testimonial Style2 Single-->
                     <div class="testimonial-style2__single text-center">
                         <div class="img-holder">
-                            <img src="assets/images/testimonial/testimonial-v2-2.jpg" alt="" />
+                            <img src="/src/assets/images/testimonial/testimonial-v2-2.jpg" alt="" />
                         </div>
                         <div class="text-holder">
                             <p>This is due to their best service, pricing and customer support. It’s throughly
@@ -133,7 +133,7 @@
                     <!--Start Testimonial Style2 Single-->
                     <div class="testimonial-style2__single text-center">
                         <div class="img-holder">
-                            <img src="assets/images/testimonial/testimonial-v2-3.jpg" alt="" />
+                            <img src="/src/assets/images/testimonial/testimonial-v2-3.jpg" alt="" />
                         </div>
                         <div class="text-holder">
                             <p>This is due to their best service, pricing and customer support. It’s throughly
